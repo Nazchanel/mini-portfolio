@@ -1,0 +1,66 @@
+title: Eshan Iyer
+description: Eshan Iyer's Personal Website
+baseurl: ""
+
+username: Eshan Iyer
+typing_text: Software Engineer / Student
+
+email: admin@eshaniyer.tech
+linkedin_username: kulfieshan
+github_username: Nazchanel
+
+show_aboutme_card: true
+about_me_title: About Me
+about_me_description: Eshan Iyer is an 11th-grade student going to Frisco High School. He is currently 16 years old. Eshan loves to code innovative ideas and solve real-world issues. He is currently focusing his passion on data science, specifically machine learning. He is taking those skills currently to help the cause of oncology with his cancer detection program.
+
+
+show_skills_card: true
+skills_title: Skills
+
+show_timeline_card: false
+timeline_title: Education & Experience
+cv_download_link: https://eshaniyer.tech/cv
+
+show_projects_card: true
+show_projects: false
+projects_title: Work Projects
+show_os_projects: true
+os_projects_title: Portfolio Projects
+
+show_contact_card: true
+contact_title: Contacts
+contact_description: Feel free to contact me wherever is comfortable for you
+
+repository: Nazchanel
+github_pages:
+  - sorting_algos
+  - character_encoder
+  - Nazchanel.github.io
+  
+projects:
+  sort_by: stars
+  exclude:
+    archived: true
+    forks: true
+    projects:
+      - swift-labs
+      - ti-84-programs
+      - cancer-detection
+      - key-logger
+      - Nazchanel
+      - my-test-site
+      - kulfi-kream
+      - coding-competitions
+
+plugins:
+  - "jekyll-github-metadata"
+
+exclude:
+  [
+    "_assets",
+    "Gemfile",
+    "Gemfile.lock",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+  ]

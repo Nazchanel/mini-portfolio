@@ -1,0 +1,14 @@
+- name: GitHub
+  weight: 5
+
+- name: Git
+  weight: 5
+
+- name: SQL
+  weight: 1
+
+- name: Bash
+  weight: 3
+
+- name: PowerShell
+  weight: 5

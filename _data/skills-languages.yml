@@ -1,0 +1,20 @@
+- name: Python
+  weight: 5
+
+- name: JS
+  weight: 2
+
+- name: Java
+  weight: 3
+
+- name: Swift
+  weight: 4
+  
+- name: CSS
+  weight: 2
+
+- name: HTML
+  weight: 4
+
+- name: Markdown
+  weight: 5
